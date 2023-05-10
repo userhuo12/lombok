@@ -13,8 +13,10 @@ public class TestCotrollor {
 		dto.setName("홍길동");
 		dto.setId("tiger");
 		dto.setPw("1234");
-		dto.setAge("27");
+		dto.setAge(27);
+		
 		
 		return dto;
 	}
 }
+
